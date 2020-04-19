@@ -1,0 +1,10 @@
+data/
+tfm/
+*.h5
+runs/
+*.zip
+*.caffemodel
+*.protxt
+*.h5.keras
+*.tar.gz
+pretrained/
